@@ -1,4 +1,3 @@
-# Noxolo Mandisa Mkhungo
 ## Software Engineer & IT Consultant
 As a seasoned software engineer, 
 I empower businesses to expand and enhance their operations, driving revenue growth through tailored IT solutions.

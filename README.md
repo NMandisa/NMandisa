@@ -11,11 +11,25 @@ I specialize in *high-performance, scalable software solutions* that enable busi
 ✅ *Data-Driven Decision Making* – Harnessing *AI, big data, and analytics* for operational optimization.  
 ✅ *End-to-End IT Strategy & Consulting* – Aligning technology with *business objectives* for maximum ROI.
 
-## 🛠 *Technical Expertise*
+## *SAP Expertise*  
 
-### *Enterprise Solutions*  
-![SAP](https://img.shields.io/badge/SAP%20Commerce-0A66C2?style=flat&logo=sap&logoColor=white)  
-![SAP HANA](https://img.shields.io/badge/SAP%20HANA-0A66C2?style=flat&logo=sap&logoColor=white)
+#### *SAP Commerce Cloud*  
+- *SAP HY100E* – SAP Commerce Cloud: Fundamentals  
+- *SAP HY400* – Advanced SAP Commerce Cloud Development  
+- *SAP HY410* – SAP Commerce Cloud Integration  
+- *SAP HY430* – SAP Commerce Cloud: Core SAP Functionality  
+
+#### *SAP S/4HANA & Business Processes*  
+- *SAP ACT100* – SAP Activate Methodology  
+- *SAP ACT200* – Advanced SAP Activate Methodology  
+- *SAP S4H01* – Introduction to SAP S/4HANA  
+- *SAP SAPTEC* – SAP NetWeaver Fundamentals  
+- *SAP TERP10* – Integration of Business Processes in SAP ERP   
+
+### 🚀 *Enterprise & Cloud Solutions*  
+- ![SAP Commerce](https://img.shields.io/badge/SAP%20Commerce-0A66C2?style=flat&logo=sap&logoColor=white)  ![SAP HANA](https://img.shields.io/badge/SAP%20HANA-0A66C2?style=flat&logo=sap&logoColor=white)
+
+## 🛠 *Technical Expertise*
 
 ### *Frontend Development & Design* 🎨
 This section focuses on technologies used to design, develop, and enhance user-facing applications.

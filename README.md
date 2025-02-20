@@ -13,6 +13,10 @@ I specialize in *high-performance, scalable software solutions* that enable busi
 
 ## 🛠 *Technical Expertise*
 
+### *Enterprise Solutions*  
+![SAP](https://img.shields.io/badge/SAP%20Commerce-0A66C2?style=flat&logo=sap&logoColor=white)  
+![SAP HANA](https://img.shields.io/badge/SAP%20HANA-0A66C2?style=flat&logo=sap&logoColor=white)
+
 ### *Frontend Development & Design* 🎨
 This section focuses on technologies used to design, develop, and enhance user-facing applications.
 - *Frontend Frameworks & Libraries:*
